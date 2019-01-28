@@ -1,6 +1,16 @@
 # TTS-MPP-prototype
 A prototype repository, outlining how the TTS MPP would look in practice.
 
+## Opportunities
+
+There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/fieldsey/TTS-MPP-prototype/issues) and follow the following format:
+
+> ### {{User-Story-Title}}
+> 
+> * **Link to issue:** [Issue number XX](URL)
+> * **When the Q&A period will close:** MONTH DD, YYYY at 5:00pm, eastern
+> * **When the responses must be submitted:** MONTH DD, YYYY at 5:00pm, eastern
+
 ## Workflow
 
 When awarding a new microconsulting engagement, these are the steps we follow:
