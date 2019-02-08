@@ -7,7 +7,7 @@ There are currently no user stories that need assistance. When a user story is r
 
 > ### {{User-Story-Title}}
 > 
-> * **Link to issue:** [Issue number XX](URL)
+> * **Link to Issue:** [Issue number XX](URL)
 > * **When the Q&A period will close:** MONTH DD, YYYY at 5:00pm, eastern
 > * **When the responses must be submitted:** MONTH DD, YYYY at 5:00pm, eastern
 
@@ -15,7 +15,7 @@ There are currently no user stories that need assistance. When a user story is r
 
 When awarding a new microconsulting engagement, these are the steps we follow:
 
-* When we have an user story that needs to be completed, we will create an Issue in the repo. The solicitation period opens when the Issue is created.
+* When we have a user story that needs to be completed, we will create an Issue in the repo. The solicitation period opens when the Issue is created.
 * For each user story, vendors should post any questions they have or clarifications they’d like in the comments of the issue. In an effort to promote consistency and transparency, questions received via any other medium will not be answered.
 * Each Issue will contain a link to a Google Form that will be used to collect vendor’s responses. We will not be able to consider responses sent via any other medium.
 * When the question and answer and/or response periods close, we will comment on the Issue indicating as such. The Issue itself will be left open until an award is made.
