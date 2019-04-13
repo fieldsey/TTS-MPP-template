@@ -27,3 +27,12 @@ Place a bid
 -----------
 
 To place a bid, simply find an open auction by visiting the TTS MPP repository and browsing the Issues. Once you've identified an auction on which you'd like to bid, follow the instructions regarding submitting your response and you're part of the program! Good luck and we look forward to working with you!
+
+Getting paid
+-----------
+
+We give contractors the flexibility to choose the payment processor that works best for them. All we need is a place to enter our credit card information. This is known as a vendor's **Payment URL.**
+
+To specify or update your Payment URL, simply provide it when requested. We'll issue payment at your Payment URL when you win an auction and meet its acceptance criteria before the delivery deadline. Please note that if you use a payment processor that charges us a fee, that fee will be deducted from the award.
+
+PS: One payment processor we've seen used is [Stripe](https://stripe.com/docs/checkout/tutorial). Stripe is simple to setup, and doesn't charge a fee for those issuing payment. What's more, a contractor that has worked with cloud.gov actually wrote an open source app to [deploy a Stripe payment form via Heroku](https://github.com/cwarden/pay).
