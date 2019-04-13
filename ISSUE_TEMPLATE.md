@@ -3,13 +3,13 @@
 ## Deadlines
 
 * **Q&A period ends:** Please provide feedback or ask any questions you may have in the comments below no later than DAY, MONTH DD, YYYY by 5:00pm eastern.
-* **Responses due by:** Please provide your responses via the method described below no later than DAY, MONTH DD, YYYY by 5:00pm eastern.
+* **Responses due by:** Please provide your responses via [this Google Form](URL) no later than DAY, MONTH DD, YYYY by 5:00pm eastern.
 
 ## Background
 
 ### The project
 
-_This should be pulled from the project summary memo._
+_This will be a few lines explaining the team and the project with the need._
 
 ### The user story
 
