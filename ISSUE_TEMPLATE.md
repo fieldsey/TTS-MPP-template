@@ -33,8 +33,6 @@ The government anticipates that this user story should be completed in one/two w
 
 ## Disclaimer
 
-_Select one paragraph and delete the other._
-
 In order to avoid potential conflicts of interest, the awardee will not be provided any non-public information to develop the deliverables. Additionally, all deliverables will be made publicly available in this GitHub repository and in accordance with the [18F Open Source Policy](https://18f.gsa.gov/open-source-policy/).
 
 In performance of this effort, the awardee shall not perform a function that requires access to a government system or sensitive information (e.g., system administrator privileged access to a government system, or contractor systems or processes that utilize sensitive information). Additionally, the awardee shall not connect one or more awardee-owned IT devices to an internal trusted government network. Finally, this award does not involve the storage, generating, transmitting, or exchanging of sensitive information.
