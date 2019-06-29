@@ -1,5 +1,5 @@
 # TTS-MPP-prototype
-A prototype repository, outlining how the TTS MPP would look in practice.
+A prototype repository, outlining how the TTS MPP would look in practice. Don't forget to take a look at the repository that explains [the TTS MPP process](https://github.com/fieldsey/TTS-MPP-process/). Please give any and all feedback you have through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Opportunities
 There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/fieldsey/TTS-MPP-prototype/issues) and follow the following format:
